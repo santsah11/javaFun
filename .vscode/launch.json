@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapFun",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "HashMapFun",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PuzzleJavaTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "PuzzleJavaTest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CodeExample",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CodeExample",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - forLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "forLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whloop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "whloop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrList",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ArrList",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringManipulatorTesting",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "StringManipulatorTesting",
+            "args": ""
+        }
+    ]
+}
